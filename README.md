@@ -8,6 +8,8 @@ On the [PDF](https://github.com/busbuyukefe/efesonik/blob/main/Parametrik%20Hopa
 
 This system has a set of parametric-speaker arranged side-by-side with independent angle control for each one. This allows the system to be focused on more than one targets thus making a more usable. With each section being able to rotate independently it takes less space with the rotating-mechanism than a single speaker with a gimbal.
 
+You can see the code I used in this [gist](https://gist.github.com/busbuyukefe/7ff0d10a8e1e2d5ed5e22a36067409bf) I posted quite a while ago (Which is essentialy the same code from gururise but with a different pinout)
+
 In the amp section of the block diagram you can use anything else to handle the switching. 
 The KiCAD drawing has a single sided PCB design but I didn't had the time to check if it is working.
 
@@ -27,6 +29,8 @@ Some photos I took during building it:
 ![](/buildlog/first-array.jpg)
 ![](/buildlog/arrays-2.jpg)
 ![](/buildlog/arrays-1.jpg)
+![](/buildlog/cad-assembly1.jpg)
+![](/buildlog/cad-assembly2.jpg)
 ![](/buildlog/programming.jpg)
 ![](/buildlog/protoboard-1.jpg)
 ![](/buildlog/protoboard-2.jpg)
